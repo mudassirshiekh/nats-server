@@ -21,6 +21,7 @@
 - [Slack](https://natsio.slack.com): Click [here](https://slack.nats.io) to join. You can ask question to our maintainers and to the rich and active community.
 
 ## Contributing
+## By Mudassir Alam
 
 If you are interested in contributing to NATS, read about our...
 
